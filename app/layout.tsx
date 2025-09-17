@@ -1,4 +1,4 @@
-import './globals.css'
+import '../styles/globals.css'
 import Link from 'next/link'
 import Image from 'next/image'
 import { auth, signIn, signOut } from '@/lib/auth'
